@@ -1,7 +1,7 @@
-### Greatings! 👋
+#### Greatings! 👋
 
 
-**Geo-Stelar/geo-stelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Geo-Stelar/geo-stelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>
 I am an **indie developer** from El Salvador, I 
 Here are some ideas to get you started:
 
@@ -28,3 +28,11 @@ I develop in differents programming languages, as well, the usages of frameworks
 Firtsly, I make sure the UI/UX for my creations of apps with:<br>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+
+Badge with SVG: <br>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30">
+  <rect width="150" height="30" fill="#4CAF50" />
+  <text x="10" y="20" fill="#ffffff" font-family="Arial" font-size="14">
+    Mi Badge Personalizado
+  </text>
+</svg>
