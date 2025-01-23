@@ -30,4 +30,4 @@ Firtsly, I make sure the UI/UX for my creations of apps with:<br>
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 Badge with SVG: <br>
-https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/figma.svg
+![Mi Badge](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/figma.svg)
