@@ -30,9 +30,4 @@ Firtsly, I make sure the UI/UX for my creations of apps with:<br>
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 Badge with SVG: <br>
-<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30">
-  <rect width="150" height="30" fill="#4CAF50" />
-  <text x="10" y="20" fill="#ffffff" font-family="Arial" font-size="14">
-    Mi Badge Personalizado
-  </text>
-</svg>
+https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/figma.svg
