@@ -20,15 +20,11 @@ I develop in differents programming languages, as well, the usages of frameworks
 ![CSS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/CSS.svg)
 ![JS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JS.svg)
 ![PHP](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PHP.svg)
-![C#](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/c#.svg)
-![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JAVA.svg)
+![C#](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/C#.svg)
+![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/java.svg)
 ![PYTHON](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PY.svg)
 
 
 
 Firtsly, I make sure the UI/UX for my creations of apps with:<br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-
-Badge with SVG: <br>
 ![Mi Badge](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/figma.svg)
