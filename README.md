@@ -23,6 +23,8 @@ I develop in differents programming languages, as well, the usages of frameworks
 ![C#](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/CSHARP.svg)
 ![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JAVAA.svg)
 ![PYTHON](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PY.svg)
+![DJANGO](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/django.svg)
+![Laravel](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/laravel.svg)
 
 
 
