@@ -1,11 +1,11 @@
-#### Greatings! 👋
+### Greatings! 👋
 
 
-<br>
-I am an **indie developer** from El Salvador, I love doing projects that make people's businesses impact on the internet, now everything has to be digitalized so that people's businesses become part of the business model of these times. And I like to make the bussiness take that step forward.
+*<br>
+I am an **indie developer** from El Salvador. I love working on projects that help people establish a strong presence on the internet. In today’s digital world, every venture needs to adapt to modern trends. My goal is to assist people in transforming their ideas into impactful digital solutions and taking that essential step into the future.
 
 
-I develop in differents programming languages, as well, the usages of frameworks for making this projects faster and secure (for backend and frontend):<br>
+I develop in differents programming languages, as well, the usages of frameworks (for backend and frontend):<br>
 
 ![HTML](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/html.svg)
 ![CSS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/CSS.svg)
