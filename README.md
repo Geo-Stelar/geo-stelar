@@ -23,10 +23,13 @@ I develop in differents programming languages, as well, the usages of frameworks
 ![C#](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/CSHARP.svg)
 ![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JAVAA.svg)
 ![PYTHON](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PY.svg)
-![DJANGO](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/django.svg)
-![Laravel](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/laravel.svg)
-![Tailwind](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/Tailwind.svg)
-![Bootstrap](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/Bootstrap.svg)
+![DJANGO](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/djangoo.svg)
+![Laravel](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/laravell.svg)
+![Tailwind](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/TAILWIND.svg)
+![Bootstrap](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/BOOTSTRAP.svg)
+![MySQL](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/mysql.svg)
+![SQLServer](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/sqlserver.svg)
+![PostgreSQL](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/postgresql.svg)
 
 
 Firtsly, I make sure the UI/UX for my creations of apps with:<br>
