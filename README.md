@@ -2,8 +2,8 @@
 
 
 *<br>
-I am an **indie developer** from El Salvador. I love working on projects that help people establish a strong presence on the internet. In today’s digital world, every venture needs to adapt to modern trends. My goal is to assist people in transforming their ideas into impactful digital solutions and taking that essential step into the future.
-
+I am an **indie developer** from El Salvador. I love working on projects that help people establish a strong presence on the internet. In today’s digital world, every venture needs to adapt to modern trends. My goal is to assist people in transforming their ideas into impactful digital solutions and taking that essential step into the future. <br>
+Currently, I am exploring backend frameworks to enhance my skills and ensure faster and more efficient development for future projects.
 
 I develop in differents programming languages, as well, the usages of frameworks (for backend and frontend):<br>
 
