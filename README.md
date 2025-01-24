@@ -1,7 +1,7 @@
 ### Greatings! 👋
 
 
-<img src="https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/gifs/banner.gif" alt="Descripción alternativa" width="300">
+<img src="https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/gifs/banner.gif" alt="Descripción alternativa" width="845" height="61">
 *<br>
 I am an **indie developer** from El Salvador. I love working on projects that help people establish a strong presence on the internet. In today’s digital world, every venture needs to adapt to modern trends. My goal is to assist people in transforming their ideas into impactful digital solutions and taking that essential step into the future. <br>
 Currently, I am exploring backend frameworks to enhance my skills and ensure faster and more efficient development for future projects. 
