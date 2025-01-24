@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 I develop in differents programming languages, as well, the usages of frameworks (for backend and frontend):<br>
 ![HTML](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/html.svg)
-![CSS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/css.svg)
-![JS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/js.svg)
-![PHP](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/php.svg)
+![CSS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/CSS.svg)
+![JS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JS.svg)
+![PHP](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PHP.svg)
 ![C#](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/c#.svg)
-![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/java.svg)
-![PYTHON](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/py.svg)
+![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JAVA.svg)
+![PYTHON](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PY.svg)
 
 
 
