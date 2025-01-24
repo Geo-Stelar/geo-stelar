@@ -20,8 +20,8 @@ I develop in differents programming languages, as well, the usages of frameworks
 ![CSS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/CSS.svg)
 ![JS](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JS.svg)
 ![PHP](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PHP.svg)
-![C#](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/C#.svg)
-![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/java.svg)
+![C#](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/CSHARP.svg)
+![JAVA](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/JAVAA.svg)
 ![PYTHON](https://raw.githubusercontent.com/Geo-Stelar/geo-stelar/refs/heads/main/imgs/PY.svg)
 
 
